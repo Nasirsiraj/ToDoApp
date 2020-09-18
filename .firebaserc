@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todoapp-36a42": {
+      "hosting": {
+        "ToDoApp": [
+          "todoapp-36a42"
+        ]
+      }
+    }
+  }
+}
